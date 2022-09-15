@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sierwilson
-- 🌱 I’m currently learning...
+👋 Hi, I’m @sierwilson
+🌱 I’m currently learning...
 
 <!---
 sierwilson/sierwilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
